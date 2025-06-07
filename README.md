@@ -34,4 +34,4 @@ The notebook begins by loading and previewing the heart disease dataset to under
 
  # Dataset
 The dataset is sourced from Kaggle’s Heart Disease UCI Dataset:
-https://www.kaggle.com/datasets/ronitf/heart-disease-uci# assignment-_DLMCSPCSP01
+ (https://www.kaggle.com/datasets/mohamedkhairyelbanna/heartdiseasetrain-test)
